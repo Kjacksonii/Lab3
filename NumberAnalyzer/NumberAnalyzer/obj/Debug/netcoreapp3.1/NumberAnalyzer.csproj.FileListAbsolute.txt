@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/netcoreapp3.1/NumberAnalyzer.deps.json
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/netcoreapp3.1/NumberAnalyzer.runtimeconfig.json
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/netcoreapp3.1/NumberAnalyzer.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/netcoreapp3.1/NumberAnalyzer.dll
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/netcoreapp3.1/NumberAnalyzer.pdb
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.dll
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.pdb
+/Users/kevinjacksonii/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/netcoreapp3.1/NumberAnalyzer.genruntimeconfig.cache
